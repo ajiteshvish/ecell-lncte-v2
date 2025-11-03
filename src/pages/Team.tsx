@@ -296,7 +296,7 @@ const Team = () => {
                           id: 'content-head', 
                           name: 'Shreya Shukla', 
                           role: 'Content Creator Head', 
-                          image: '/team/IMG_20250709_221727 - Shreya.jpg',
+                          image: '/team/ShreyaPic.PNG',
                           email: 'shreya.shukla@ecell.com',
                           linkedin: 'https://linkedin.com/in/shreya-shukla'
                         },
