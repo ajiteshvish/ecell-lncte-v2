@@ -73,6 +73,7 @@ const Team = () => {
                       id: 'mkt-head', 
                       name: 'Aditi Harinkhere', 
                       role: 'Marketing Head',
+                      image: '/team/Aditi Harinkhede.jpg',
                       email: 'aditi.harinkhere@ecell.com',
                       linkedin: 'https://linkedin.com/in/aditi-harinkhere'
                     },
