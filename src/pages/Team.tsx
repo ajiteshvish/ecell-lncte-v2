@@ -124,6 +124,7 @@ const Team = () => {
                                   id: 'log-1', 
                                   name: 'Tanu Agrawal', 
                                   role: 'Logistic & Event Team',
+                                  image: '/team/TanuAgrawalpic.jpg',
                                   email: 'tanu.agrawal@ecell.com',
                                   linkedin: 'https://linkedin.com/in/tanu-agrawal'
                                 },
