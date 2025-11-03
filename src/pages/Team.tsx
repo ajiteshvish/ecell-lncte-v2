@@ -112,7 +112,7 @@ const Team = () => {
                                   id: 'pr-1', 
                                   name: 'Khushi Soni', 
                                   role: 'Outreach & PR Team', 
-                                  image: '/team/IMG-20250709-WA0065 - Khushi Soni.jpg',
+                                  image: '/team/Khushi Soni_new.jpg',
                                   email: 'khushi.soni@ecell.com',
                                   linkedin: 'https://linkedin.com/in/khushi-soni'
                                 },
@@ -125,7 +125,7 @@ const Team = () => {
                                   id: 'log-1', 
                                   name: 'Tanu Agrawal', 
                                   role: 'Logistic & Event Team',
-                                  image: '/team/TanuAgrawalpic.pdf',
+                                  image: '/team/TanuAgrawalnew.PNG',
                                   email: 'tanu.agrawal@ecell.com',
                                   linkedin: 'https://linkedin.com/in/tanu-agrawal'
                                 },
@@ -187,7 +187,7 @@ const Team = () => {
                           id: 'sm-1', 
                           name: 'Tanishka Shrivastava', 
                           role: 'Graphic Designer', 
-                          image: '/team/IMG20250709192629 - Tanishka Shrivastava.jpg',
+                          image: '/team/Tanishka Shrivastava_new.jpg',
                           email: 'tanishka.shrivastava@ecell.com',
                           linkedin: 'https://linkedin.com/in/tanishka-shrivastava'
                         },
@@ -200,6 +200,7 @@ const Team = () => {
                           id: 'content-2', 
                           name: 'Saloni Nema', 
                           role: 'Photographer',
+                          image: '/team/TanuAgrawalnew.PNG',
                           email: 'saloni.nema@ecell.com',
                           linkedin: 'https://linkedin.com/in/saloni-nema'
                         },
@@ -238,6 +239,7 @@ const Team = () => {
                                   id: 'log-2', 
                                   name: 'Vedant Sah', 
                                   role: 'Logistic & Event Team',
+                                  image: '/team/VedantShah.HEIC',
                                   email: 'vedant.sah@ecell.com',
                                   linkedin: 'https://linkedin.com/in/vedant-sah'
                                 },
@@ -637,6 +639,7 @@ const Team = () => {
                 id: 'log-1', 
                 name: 'Tanu Agrawal', 
                 role: 'Logistic & Event Team',
+                image: '/team/TanuAgrawalnew.PNG',
                 email: 'tanu.agrawal@ecell.com',
                 linkedin: 'https://linkedin.com/in/tanu-agrawal'
               })}
@@ -644,6 +647,7 @@ const Team = () => {
                 id: 'log-2', 
                 name: 'Vedant Sah', 
                 role: 'Logistic & Event Team',
+                image: '/team/VedantShah.HEIC',
                 email: 'vedant.sah@ecell.com',
                 linkedin: 'https://linkedin.com/in/vedant-sah'
               })}
@@ -652,6 +656,7 @@ const Team = () => {
                 id: 'mkt-head', 
                 name: 'Aditi Harinkhere', 
                 role: 'Marketing Team',
+                image: '/team/Aditi Harinkhede.jpg',
                 email: 'aditi.harinkhere@ecell.com',
                 linkedin: 'https://linkedin.com/in/aditi-harinkhere'
               })}
@@ -676,7 +681,7 @@ const Team = () => {
                 id: 'content-head', 
                 name: 'Shreya Shukla', 
                 role: 'Content Creation Team', 
-                image: '/team/IMG_20250709_221727 - Shreya.jpg',
+                image: '/team/ShreyaPic.PNG',
                 email: 'shreya.shukla@ecell.com',
                 linkedin: 'https://linkedin.com/in/shreya-shukla'
               })}
@@ -685,6 +690,7 @@ const Team = () => {
                 id: 'videographer', 
                 name: 'Shaikh Asad UI Hasan', 
                 role: 'Videographer',
+                image: '/team/Shaikh asad ul hasan.jpg',
                 email: 'asad.hasan@ecell.com',
                 linkedin: 'https://linkedin.com/in/asad-hasan'
               })}
@@ -717,7 +723,7 @@ const Team = () => {
                 id: 'gd-1', 
                 name: 'Tanishka Shrivastava', 
                 role: 'Graphic Designer', 
-                image: '/team/IMG20250709192629 - Tanishka Shrivastava.jpg',
+                image: '/team/Tanishka Shrivastava_new.jpg',
                 email: 'tanishka.shrivastava@ecell.com',
                 linkedin: 'https://linkedin.com/in/tanishka-shrivastava'
               })}
